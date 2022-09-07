@@ -50,4 +50,4 @@ python train_and_eval.py --batch_size 8 --epochs 100 --ckpt_save_interval 2
 * [charlesq34/pointnet2](https://github.com/charlesq34/pointnet2): Paper author and official code repo.
 * [erikwijmans/Pointnet2_PyTorch](https://github.com/erikwijmans/Pointnet2_PyTorch): Initial work of PyTorch implementation of PointNet++. 
 * [Replacing THC/THC.h module to ATen/ATen.h module](https://stackoverflow.com/q/72988735/5224257) : Fix for latest Pytorch versions
-* [error: ‘AT_CHECK’ was not declared in this scope](https://github.com/open-mmlab/OpenPCDet/issues/284#issuecomment-874171209): : Fix for latest Pytorch versions
+* [error: ‘AT_CHECK’ was not declared in this scope](https://github.com/open-mmlab/OpenPCDet/issues/284#issuecomment-874171209): Fix for latest Pytorch versions
