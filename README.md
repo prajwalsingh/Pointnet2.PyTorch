@@ -7,7 +7,8 @@
 ### Requirements
 * Linux (tested on Ubuntu 14.04/16.04)
 * Python 3.6+
-* PyTorch 1.0
+* PyTorch >=1.0
+* Cuda >=10.0
 
 ### Install 
 Install this library by running the following command:
